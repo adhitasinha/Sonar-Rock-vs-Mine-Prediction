@@ -92,7 +92,7 @@ or open it directly in **Google Colab**.
 
 ##  Credits & References
 
-* Inspired by Siddhardhan’s YouTube tutorial: “Project 1: SONAR Rock vs Mine Prediction with Python” ([GitHub][4], [GitHub][3], [YouTube][1]).
+* Inspired by Siddhardhan’s YouTube tutorial: “SONAR Rock vs Mine Prediction with Python” ([GitHub][4], [GitHub][3], [YouTube][1]).
 * Dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+%28Sonar%2C+Mines+vs.+Rocks%29).
 
 ---
